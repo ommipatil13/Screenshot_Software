@@ -1,2 +1,2 @@
 # Screenshot_Software
-I created a screenshot software which takes screenshot of current display using tkinter GUI.
+I Created a Screenshot Software which takes Screenshot of Current Display using Tkinter GUI.
